@@ -1,0 +1,14 @@
+# Zorunlu
+opencv-python>=4.5.0
+numpy>=1.21.0
+Pillow>=9.0.0
+scikit-image>=0.19.0
+
+# Opsiyonel (U-Net eğitimi için)
+torch>=1.12.0
+torchvision>=0.13.0
+tqdm>=4.64.0
+
+# Kurulum:
+#   pip install opencv-python numpy Pillow scikit-image
+#   pip install torch torchvision tqdm   # U-Net için
